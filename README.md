@@ -1,7 +1,7 @@
 # POWER_BI_PROJECTS
 
 ---
-![STAGE 1 IMAGE] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fphotos%2F2161432499%2Fdisplay_1500%2Fstock-photo-caucasian-male-seller-showing-bicycles-for-focused-african-american-female-customer-in-modern-bike-2161432499.jpg&tbnid=MAEpqrSJ5xZLNM&vet=12ahUKEwjOxKHQpLGBAxWAzaACHZb3DvEQMygFegQIARBi..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbike-shop&docid=WiIYNIsUCFDAUM&w=1500&h=943&q=cycle%20and%20bike%20shop%20images&ved=2ahUKEwjOxKHQpLGBAxWAzaACHZb3DvEQMygFegQIARBi)
+
 # AdventureWorks Cycles Business Intelligence Project
 
 This GitHub repository hosts the AdventureWorks Cycles Business Intelligence project, where we transform raw data into professional-quality reports and dashboards to track key performance indicators (KPIs), compare regional performance, analyze product-level trends, and identify high-value customers.
