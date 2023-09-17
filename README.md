@@ -1,4 +1,6 @@
 POWER_BI_PORTFOLIO PROJECT
+
+Welcome to the Power BI Projects Showcase repository! Here, you'll find a collection of insightful Power BI projects, dashboards, tutorials, and templates to help you master the art of data visualization and analysis with Power BI.
 ---
 
 # AdventureWorks Cycles Business Intelligence Project
