@@ -4,6 +4,9 @@ POWER_BI_PORTFOLIO PROJECT
 # AdventureWorks Cycles Business Intelligence Project
 
 Welcome to the AdventureWorks Cycles Business Intelligence project repository! This project has been successfully completed, transforming raw data into professional-quality reports and dashboards that track key performance indicators (KPIs), compare regional performance, analyze product-level trends, and identify high-value customers.
+
+
+
 ![download](https://github.com/pallavi-2424/POWER_BI_PROJECTS/assets/144513254/ed951507-c1c9-48c7-b578-d579f0421c64)
 
 ## Stage 1: Connecting & Shaping Data
